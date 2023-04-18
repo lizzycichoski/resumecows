@@ -1,0 +1,41 @@
+.common{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.header{
+    height: 100 px;
+    background-color:pink;
+    line-height: 100px
+}
+
+.mainbody{
+    background-color: azure;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%
+}
+nav a{
+    float: right;
+    color: black;
+}
+
+.footer{
+    height: 100 px;
+    background-color: pink;
+    line-height: 100px;
+    text-align: center;
+}
+
+ul{
+    list-style-position: inside;
+}
+div.tableau{
+    width: 950 px;
+    margin-left: auto;
+    margin-right: auto;
+}
